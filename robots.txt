@@ -1,8 +1,0 @@
-# robots.txt — NexTis Panel
-# https://nextispterodactyl.my.id
-
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://nextispterodactyl.my.id/sitemap.xml
